@@ -1,1 +1,26 @@
 /* your code here */
+
+.product{
+	background-color: palegreen
+}
+
+.photo-main >img{
+	width: 300px;
+}
+
+.photo-album >ul{
+	display: flex;
+	list-style: none;
+}
+
+.product{
+	display: flex;
+}
+
+.variant >ul{
+	display: flex;
+	flex-direction: row;
+	list-style: none;
+	align-items: start
+	
+}
